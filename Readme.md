@@ -1,22 +1,18 @@
-# Hi 👋, I'm Aman Pratap Singh 🐯🚀  
-A passionate MERN Stack Developer & AI Enthusiast.  
+<h1 align="center">Hi 👋, I'm Aman Pratap Singh🐳🌟</h1>
+<h3 align="center">🚀 MERN Stack Developer | 💡 AI Enthusiast | 🎯 Problem Solver.</h3> <br>
 
 - 🌱 I’m currently learning **AI Agents, LLMs, and Cloud-Native Development**  
 - 👯 I’m looking to collaborate on **MERN, AI, and Full-Stack Projects**  
-- 📫 How to reach me **amanpratap9868@gmail.com**  
-- 📄 Know about my experiences on my **[Resume](https://drive.google.com/file/d/1aGmvyw0drQl80VQuJuZdSVKpr0cSvihO/view?usp=drive_link)**  
-
----
-
-## 🌐 Connect with me:  
-<p align="left"
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-pratap-singh-76599a251?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amanp18)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/amanpra21155169)
+- 📫 How to reach me **amanpratap9868@gmail.com**
+- 📄 Know about my experiences in my <a href="[https://drive.google.com/file/d/1v51ZCWmIwWXdyZer81Y9s8KANUouT6us/view?usp=sharing" target="_blank](https://drive.google.com/file/d/1aGmvyw0drQl80VQuJuZdSVKpr0cSvihO/view?usp=drive_link)">resume</a>
+<br><br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/aman-pratap-singh-76599a25/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aman-pratap-singh-76599a25/" height="30" width="40" /></a>
+<a href="https://instagram.com/aman.p_.singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amanps" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Amanpratap20/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" alt="amanps" height="30" width="40" /></a>
 </p>
----
-
-## 🛠️ Languages and Tools:
+<br><br>
 <p align="left">  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>  
@@ -32,14 +28,10 @@ A passionate MERN Stack Developer & AI Enthusiast.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="40" height="40"/>  
-</p>  
+</p>  <br><br>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanp18&show_icons=true&locale=en&layout=compact&theme=dark" alt="amanps" /></p>
+<br><br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanp18&show_icons=true&locale=en&theme=dark" alt="amanp18" /></p><br><br>
 
-## ⚙️Contribution
--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=amanp18&theme=dark&border_radius=17)](https://git.io/streak-stats)
-
-##
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanp18&layout=compact&theme=radical)  
-
----
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanp18&theme=fark" alt="amanp18" /></p><br><br>
