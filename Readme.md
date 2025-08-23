@@ -3,16 +3,15 @@ A passionate MERN Stack Developer & AI Enthusiast.
 
 - 🌱 I’m currently learning **AI Agents, LLMs, and Cloud-Native Development**  
 - 👯 I’m looking to collaborate on **MERN, AI, and Full-Stack Projects**  
-- 📫 How to reach me **your-email@example.com**  
-- 📄 Know about my experiences on my **[Resume](#)**  
+- 📫 How to reach me **amanpratap9868@gmail.com**  
+- 📄 Know about my experiences on my **[https://drive.google.com/file/d/1aGmvyw0drQl80VQuJuZdSVKpr0cSvihO/view?usp=drive_link](#)**  
 
 ---
 
 ## 🌐 Connect with me:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanp18)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-pratap-singh-76599a251?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amanp18)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](#)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/amanpra21155169)
 
 ---
 
@@ -31,14 +30,16 @@ A passionate MERN Stack Developer & AI Enthusiast.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="40" height="40"/>  
 </p>  
 
 ---
 
-## 📊 GitHub Stats:
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanp18&show_icons=true&theme=radical)  
+## ⚙️Contribution
+-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=amanp18&theme=dark&border_radius=17)](https://git.io/streak-stats)
+
+##
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanp18&layout=compact&theme=radical)  
 
 ---
