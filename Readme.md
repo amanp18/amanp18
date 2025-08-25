@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **AI Agents, LLMs, and Cloud-Native Development**  
 - 👯 I’m looking to collaborate on **MERN, AI, and Full-Stack Projects**  
 - 📫 How to reach me **amanpratap9868@gmail.com**
-- 📄 Know about my experiences in my <a href="[https://drive.google.com/file/d/1v51ZCWmIwWXdyZer81Y9s8KANUouT6us/view?usp=sharing" target="_blank](https://drive.google.com/file/d/1aGmvyw0drQl80VQuJuZdSVKpr0cSvihO/view?usp=drive_link)">resume</a>
+- 📄 Know about my experiences in my <a href="[https://drive.google.com/file/d/1aGmvyw0drQl80VQuJuZdSVKpr0cSvihO/view?usp=drive_link" target="_blank](https://drive.google.com/file/d/1aGmvyw0drQl80VQuJuZdSVKpr0cSvihO/view?usp=drive_link)">resume</a>
 <br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
