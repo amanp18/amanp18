@@ -5,7 +5,6 @@
 - 👯 I’m looking to collaborate on **MERN, AI, and Full-Stack Projects**  
 - 📫 How to reach me **amanpratap9868@gmail.com**
 - 📄 Know about my experiences in my [resume](https://drive.google.com/file/d/1aGmvyw0drQl80VQuJuZdSVKpr0cSvihO/view?usp=drive_link)
-
 <br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
