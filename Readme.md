@@ -30,9 +30,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="40" height="40"/>  
 </p>  <br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanp18&show_icons=true&locale=en&layout=compact&theme=dark" alt="amanps" /></p>
-<br><br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanp18&show_icons=true&locale=en&theme=dark" alt="amanp18" /></p><br><br>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanp18&theme=fark" alt="amanp18" /></p><br><br>
+<br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanp18&show_icons=true&locale=en&layout=compact&theme=dark" alt="amanps" /></p>
